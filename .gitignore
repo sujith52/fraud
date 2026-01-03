@@ -1,0 +1,25 @@
+# Conda / virtual env
+venv/
+.env/
+__pycache__/
+*.pyc
+
+# Conda environments (sometimes)
+.conda/
+
+# Data & logs
+*.log
+Prediction_Logs/
+Training_Logs/
+Prediction_Database/
+Training_Database/
+
+# Models
+models/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+Thumbs.db
